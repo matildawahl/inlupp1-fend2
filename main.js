@@ -65,7 +65,7 @@ function addToCart(id) {
 
 }
 
-/*The function to show all products that is put in the cart/localStorage*/
+/*The function to show all products that is put in the cart/localStorage m*/
 function showCart() { 
   const productsInCart = JSON.parse(localStorage.getItem("shoppingcart"))
 
